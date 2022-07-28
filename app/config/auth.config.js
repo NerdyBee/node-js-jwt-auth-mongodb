@@ -1,3 +1,3 @@
 module.exports = {
-  secret: "bezkoder-secret-key"
+  secret: "p2s5v8y/B?E(H+Mb",
 };
